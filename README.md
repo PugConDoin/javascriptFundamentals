@@ -1,2 +1,2 @@
 # javascriptFundamentals
-Just a JavaScript file with sample code and learning notes.
+Just a JavaScript file with reference starter code, learning notes and simple exercises.
