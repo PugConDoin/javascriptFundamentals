@@ -105,7 +105,7 @@ console.log(typeof null);
 // 3. Try to change one of the changed variables now, and observe what happens
 
 let language = 'English';
-const dateOfBirth = 1974;
+const dateOfBirth = 1985;
 // note that you cannot change the value of a 'const' variable. Trying to do so causes 'Uncaught TypeError: Assignment to constant variable.' Example below:
 // dateOfBirth = 1985; is not allowed
 
@@ -116,7 +116,7 @@ middleName = 'Xavier';
 //ARITHMATIC  OPERATORS
 const now = 2020;
 const ageMark = now - 1974;
-const ageJenny = now - 1985;
+const ageJenny = now - 1990;
 const ageIlly = now - 2009;
 const ageKit = now - 2011;
 console.log(ageMark, ageJenny, ageIlly, ageKit);
